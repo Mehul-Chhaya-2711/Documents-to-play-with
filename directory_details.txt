@@ -1,0 +1,2 @@
+c:.condarc
+c:.ipynb_checkpoints\2. - Functions and More-checkpoint.ipynb
